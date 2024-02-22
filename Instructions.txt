@@ -1,0 +1,10 @@
+1. Download the code notebook .ipynb file
+2. Open the Overleaf link corresponding to that code
+3. Enter inputs in the code, and run all cells. This will hydrate the 'originals' templates.
+4. Go to overleaf and 'pull' from github into overleaf
+5. Run the 'modified' main .tex file
+6. A hydrated report should have compiled
+
+7. To edit the text, edit the 'originals' .tex files corresponding to the cost category you would like to edit.
+8. Download the .tex files and overwrite in the 'original' file of the corresponding case in the shared google drive
+9. Refresh code and repeat steps 3-6.
