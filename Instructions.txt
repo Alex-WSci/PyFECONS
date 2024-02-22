@@ -1,5 +1,5 @@
 1. Download the code notebook .ipynb file
-2. Open the Overleaf link corresponding to that code
+2. Open the Overleaf link corresponding to that code (find overleafs in the corresponding case file named 'Text.txt').
 3. Enter inputs in the code, and run all cells. This will hydrate the 'originals' templates.
 4. Go to overleaf and 'pull' from github into overleaf
 5. Run the 'modified' main .tex file
