@@ -10,3 +10,5 @@ This Github contains a branch for each base case, and one for the benchmark case
 7. To edit the text, edit the 'originals' .tex files corresponding to the cost category you would like to edit.
 8. Download the .tex files and overwrite in the 'original' file of the corresponding case in the shared google drive
 9. Refresh code and repeat steps 3-6.
+
+ACCESS TOKEN (paste in 4th cell of costing code): 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
